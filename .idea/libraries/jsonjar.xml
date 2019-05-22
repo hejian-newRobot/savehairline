@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jsonjar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../IDEA-extension/jsonjar/commons-beanutils-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../IDEA-extension/jsonjar/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../IDEA-extension/jsonjar/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../IDEA-extension/jsonjar/commons-lang-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../IDEA-extension/jsonjar/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../IDEA-extension/jsonjar/ezmorph-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../IDEA-extension/jsonjar/json-lib-2.2.3-jdk15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
